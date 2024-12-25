@@ -1,0 +1,1 @@
+console.log("Eu sou um rei de uma terra longe daqui");
